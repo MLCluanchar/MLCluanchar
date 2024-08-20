@@ -1,7 +1,7 @@
 ## Hi
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLCluanchar&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLCluanchar&include_all_commits=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLCluanchar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLCluanchar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MLCluanchar/MLCluanchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
